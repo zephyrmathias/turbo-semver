@@ -718,6 +718,11 @@
     "@typescript-eslint/types" "5.33.0"
     eslint-visitor-keys "^3.3.0"
 
+"@zephyrmathias2/ui@0.0.0":
+  version "0.0.0"
+  resolved "https://registry.yarnpkg.com/@zephyrmathias2/ui/-/ui-0.0.0.tgz#e44c4be484c5f263cca3b697a9849227592a0714"
+  integrity sha512-LsqXXmjCSXA4rZ4mNTeKWabz4MfG4Wi0AAeakPUhyFqYJ4WSU9jbKyB09ZHE3Yd3hQtwLdxsnfJsK0ocskDdVA==
+
 acorn-jsx@^5.3.1:
   version "5.3.2"
   resolved "https://registry.yarnpkg.com/acorn-jsx/-/acorn-jsx-5.3.2.tgz#7ed5bb55908b3b2f1bc55c6af1653bada7f07937"
